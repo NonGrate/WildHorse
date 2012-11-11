@@ -15,3 +15,18 @@ Push an existing repository from the command line
 
 git remote add origin https://github.com/NonGrate/Wild.git
 git push -u origin master
+
+----------------------------------------------------------
+
+To upload to github from local storage:
+
+git commit -a -m "your message"
+git push
+
+
+----------------------------------------------------------
+
+To download from github to local storage:
+
+git commit -a -m "your message"
+git pull

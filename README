@@ -28,5 +28,4 @@ git push
 
 To download from github to local storage:
 
-git commit -a -m "your message"
 git pull
