@@ -20,6 +20,7 @@ git push -u origin master
 
 To upload to github from local storage:
 
+if (new_files) git add . || git add file_name
 git commit -a -m "your message"
 git push
 
